@@ -2,4 +2,4 @@
 ### **I'm Python Web Develeper**
 
 ** Languages and Tools **
-![Python](https://img.shields.io/badge/-Python?style=flat-square&logo=python<COLOR>)
+![Python](https://img.shields.io/badge/-Python-090909??style=plastic&logo=python)
