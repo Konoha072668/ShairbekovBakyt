@@ -7,5 +7,4 @@
 ![Python](https://img.shields.io/badge/-Python-090909??style=plastic&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-090909??style=plastic&logo=linux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=plastic&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-090909??style=plastic&logo=HTML)
-![VScode](https://img.shields.io/badge/-VScode-090909??style=plastic&logo=vscode)
+![NPM](https://img.shields.io/badge/-NPM-090909??style=plastic&logo=nodedotjs)
