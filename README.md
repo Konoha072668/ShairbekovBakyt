@@ -11,3 +11,7 @@
 
 
  **Follow Me !**
+
+
+
+[![Instagram](https://img.shields.io/badge/-Instagram-090909??style=plastic&logo=instagram)](https://www.instagram.com/batya_312_/)
