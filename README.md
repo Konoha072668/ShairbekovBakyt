@@ -5,3 +5,4 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-090909??style=plastic&logo=python)
+![Linux](https://img.shields.io/badge/-Linux-090909??style=plastic&logo=linux)
