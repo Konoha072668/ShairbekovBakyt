@@ -8,3 +8,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-090909??style=plastic&logo=linux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=plastic&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-090909??style=plastic&logo=html)
+![VScode](https://img.shields.io/badge/-VScode-090909??style=plastic&logo=vscode)
