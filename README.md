@@ -1,10 +1,13 @@
 <img align="right" alt="jpg" src="https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/MasteR/assests/shairbekov%20batya.png" width="600" height="200" />
 **I'm Python Web Develeper**
 
-** Languages and Tools **
+**Languages and Tools **
 
 
 ![Python](https://img.shields.io/badge/-Python-090909??style=plastic&logo=python)
 ![Linux](https://img.shields.io/badge/-Linux-090909??style=plastic&logo=linux)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=plastic&logo=javascript)
 ![NPM](https://img.shields.io/badge/-NPM-090909??style=plastic&logo=nodedotjs)
+
+
+ **Follow Me !**
