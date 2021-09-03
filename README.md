@@ -15,3 +15,5 @@
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909??style=plastic&logo=instagram)](https://www.instagram.com/batya_312_/)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909??style=plastic&logo=telegram)](https://t.me/batya312kg)
+
