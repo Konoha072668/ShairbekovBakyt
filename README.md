@@ -24,7 +24,7 @@
   
 
 <img align="right" alt="jpg" src="https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=radicall&layout=compact" width="600" height="200" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShairbekovBakyt&layout=compact) 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=radicall&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
             
 
