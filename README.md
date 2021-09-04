@@ -1,5 +1,5 @@
 <img align="right" alt="jpg" src="https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/Big_Dick/assests/shairbekov%20batya.png" width="600" height="200" />
-# I'm Python Web Developer**
+# I'm Python Web Developer
 
 Languages and Tools
 
