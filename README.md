@@ -23,7 +23,7 @@
 
 <img align="left" alt="jpg" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShairbekovBakyt&layout=compact" width="380" height="200" />  
 
-# Я увлекаюсь информационной безопасности но в данный момент я обучаюсь Back-End python в ITC-Bootcamp
+# I am interested in information security but at the moment I am studying Back-End python at ITC-Bootcamp
 
 
 
