@@ -9,7 +9,7 @@
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=plastic&logo=javascript)](https://ru.wikipedia.org/wiki/JavaScript)
 [![NPM](https://img.shields.io/badge/-NPM-090909??style=plastic&logo=nodedotjs)](https://www.npmjs.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-090909??style=plastic&logo=pycharm)](https://www.jetbrains.com/ru-ru/pycharm/)
-
+[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=github)](https://github.com/ShairbekovBakyt)
 
  **Follow Me !**
 
