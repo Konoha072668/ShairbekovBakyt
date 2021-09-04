@@ -19,7 +19,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909??style=plastic&logo=telegram)](https://t.me/batya312kg)
 
 
-# Statistics:
+# Statistics
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShairbekovBakyt&layout=compact" width="49.5%" />  
 
