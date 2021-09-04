@@ -24,7 +24,7 @@
 <img align="left" alt="jpg" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShairbekovBakyt&layout=compact" width="49.5%" />  
 
 
-<img align="right" alt="jpg" src="https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=radicall&layout=compact" width="42%"/>
+<img alt="jpg" src="https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=radicall&layout=compact" width="42%"/>
 
 
 
