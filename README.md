@@ -1,7 +1,7 @@
 <img align="right" alt="jpg" src="https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/Big_Dick/assests/shairbekov%20batya.png" width="600" height="200" />
 **I'm Python Web Developer**
 
-**Languages and Tools **
+# Languages and Tools
 
 
 [![Python](https://img.shields.io/badge/-Python-090909??style=plastic&logo=python)](https://www.python.org/)
