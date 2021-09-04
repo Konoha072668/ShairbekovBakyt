@@ -23,7 +23,7 @@
 
   
 
-<img align="right" alt="jpg" src="https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=radicall&layout=compact" width="600" height="200" />
+<img align="right" alt="jpg" src="https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=radicall&layout=compact" width="800" height="400" />
 
 
 
