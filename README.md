@@ -21,7 +21,7 @@
 
 
 
-  
+<img align="left" alt="jpg" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShairbekovBakyt&layout=compact" width="380" height="200" />  
 
 
 
