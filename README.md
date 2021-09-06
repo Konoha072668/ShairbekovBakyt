@@ -20,8 +20,20 @@
 
 # Statistics
 
+
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=dracula" width="49.5%"/>
 
+
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShairbekovBakyt&layout=compact&theme=dracula)
+
+
+
+
+
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShairbekovBakyt&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
