@@ -25,4 +25,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=radicall&layout=compact" width="47.5%"/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ShairbekovBakyt)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/Big_Dick/assests/index.jpeg)](https://github.com/ryo-ma/github-profile-trophy)
