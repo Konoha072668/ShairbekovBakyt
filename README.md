@@ -20,7 +20,7 @@
 
 # Statistics
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ShairbekovBakyt&repo=github-readme-stats" width="49.5%" />  
+<img align="left" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8) width="49.5%" />  
 
 
 
