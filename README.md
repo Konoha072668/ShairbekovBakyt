@@ -21,21 +21,7 @@
 # Statistics
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=dark)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&hide=contribs,prs)
-
-
-
-
-
-
-
-<img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=ShairbekovBakyt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-" width="47.5%"/>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShairbekovBakyt&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
