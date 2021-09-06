@@ -1,4 +1,4 @@
-<img align="right" alt="jpg" src="https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/Big_Dick/assests/index.jpeg" width="500" height="350" />
+<img align="right" alt="jpg" src="https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/Big_Dick/assests/index.jpeg" width="500" height="300" />
 
 # Languages and Tools
 
