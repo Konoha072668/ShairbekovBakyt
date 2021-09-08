@@ -9,7 +9,7 @@
 [![NPM](https://img.shields.io/badge/-NPM-090909??style=plastic&logo=nodedotjs)](https://www.npmjs.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-090909??style=plastic&logo=pycharm)](https://www.jetbrains.com/ru-ru/pycharm/)
 [![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=github)](https://github.com/ShairbekovBakyt)
-
+![Vscodium](https://img.shields.io/badge/-VScodium-090909?style=plastic&logo=VisualStudio)
 
 
  Follow Me !
