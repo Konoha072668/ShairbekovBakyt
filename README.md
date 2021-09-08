@@ -4,7 +4,7 @@
 
 
 [![Python](https://img.shields.io/badge/-Python-090909??style=plastic&logo=python)](https://www.python.org/)
-[![Linux](https://img.shields.io/badge/-Linux-090909??style=plastic&logo=kali)](https://ru.wikipedia.org/wiki/Linux)
+[![Linux](https://img.shields.io/badge/-Linux-090909??style=plastic&logo=linux)](https://ru.wikipedia.org/wiki/Linux)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=plastic&logo=javascript)](https://ru.wikipedia.org/wiki/JavaScript)
 [![NPM](https://img.shields.io/badge/-NPM-090909??style=plastic&logo=nodedotjs)](https://www.npmjs.com/)
 [![PyCharm](https://img.shields.io/badge/-PyCharm-090909??style=plastic&logo=pycharm)](https://www.jetbrains.com/ru-ru/pycharm/)
