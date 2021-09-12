@@ -1,5 +1,14 @@
 <img align="right" alt="GIF" src="https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/Big_Dick/assests/httpswww.instagram.combatya_312_.gif" width="900" height="400" />
 
+
+
+
+
+
+
+
+
+
 # Languages and Tools
 
 
