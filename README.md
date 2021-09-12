@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/Big_Dick/assests/httpswww.instagram.combatya_312_.gif" width="600" height="250" />
+<img align="right" alt="GIF" src="https://github.com/ShairbekovBakyt/ShairbekovBakyt/blob/Big_Dick/assests/httpswww.instagram.combatya_312_.gif" width="600" height="290" />
 
 # Languages and Tools
 
