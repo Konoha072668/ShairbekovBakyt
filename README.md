@@ -34,7 +34,7 @@
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShairbekovBaky&layout=compact&theme=dracula" width="45.5%" height="14%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShairbekovBakyt&layout=compact&theme=dracula" width="45.5%" height="14%"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ShairbekovBakyt&show_icons=true&theme=dracula" width="49.5%"/>
 
