@@ -20,6 +20,10 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-090909?style=plastic&logo=github)](https://github.com/ShairbekovBakyt)
 ![Vscodium](https://img.shields.io/badge/-VScodium-090909?style=plastic&logo=VisualStudio)
 
+# Datebase :
+
+![Postgresql](https://img.shields.io/badge/-Postgresql-%232c3e50?style=flat-square&logo=Postgresql)
+
 
  Follow Me !
 
