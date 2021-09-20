@@ -33,7 +33,7 @@ Datebase :
 [![Telegram](https://img.shields.io/badge/-Telegram-090909??style=plastic&logo=telegram)](https://t.me/batya312kg)
 
 
-# Used Language :                                 <img align="right" alt="TEXT", "My Stats" >                                        
+# Used Language_______________________________My Stats                                       
 
 
 
