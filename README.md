@@ -13,6 +13,7 @@
 
 
 [![Python](https://img.shields.io/badge/-Python-090909??style=plastic&logo=python)](https://www.python.org/)
+[Django](https://img.shields.io/badge/-Django-090909?style=plastic&logo=Django)
 [![Linux](https://img.shields.io/badge/-Linux-090909??style=plastic&logo=linux)](https://ru.wikipedia.org/wiki/Linux)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-090909??style=plastic&logo=javascript)](https://ru.wikipedia.org/wiki/JavaScript)
 [![NPM](https://img.shields.io/badge/-NPM-090909??style=plastic&logo=nodedotjs)](https://www.npmjs.com/)
